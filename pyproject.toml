@@ -5,6 +5,7 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.11.13"
 dependencies = [
+    "pysonar>=1.2.0.2419",
     "rich>=14.1.0",
     "typer>=0.19.2",
 ]

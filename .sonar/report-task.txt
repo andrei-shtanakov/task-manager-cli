@@ -1,0 +1,6 @@
+projectKey=task-manager-cli
+serverUrl=http://localhost:9000
+serverVersion=25.9.0.112764
+dashboardUrl=http://localhost:9000/dashboard?id=task-manager-cli
+ceTaskId=a8b2c20e-9bb9-4030-b4dc-9931e7fcfcc7
+ceTaskUrl=http://localhost:9000/api/ce/task?id=a8b2c20e-9bb9-4030-b4dc-9931e7fcfcc7
